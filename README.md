@@ -17,10 +17,6 @@ SkyCast is a sleek and intuitive weather application built with React. It provid
 - **CSS**: For styling the application.
 - **OpenWeatherMap API**: For fetching weather data.
 
-## Screenshots
-
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
 
 ## Getting Started
 
